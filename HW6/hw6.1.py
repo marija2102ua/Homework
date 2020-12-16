@@ -2,7 +2,7 @@ def compare(a, b):
     """This function returns the largest number of two numbers"""
     if a > b:
         return a
-    return value_2
+    return b
 
 
 value_1 = 45
