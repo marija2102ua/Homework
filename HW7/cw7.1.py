@@ -8,3 +8,4 @@ def count_positives_sum_negatives(arr):
         if i < 0:
             second += i
     return [first, second]
+
